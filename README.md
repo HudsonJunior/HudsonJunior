@@ -8,7 +8,7 @@ My name is Hudson Junior and I'm a mobile developer/maraton enthusiast. I'm from
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-React-Native?style=flat&logo=react&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-React Native-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 
 <!-- Icons -->
 [2.2]: https://raw.githubusercontent.com/HudsonJunior/HudsonJunior/master/linkedin-3-16.png (LinkedIn)
