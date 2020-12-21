@@ -1,6 +1,14 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/HudsonJunior/HudsonJunior/master/wave.gif" width="30px">
 
 My name is Hudson Junior and I'm a mobile developer/maraton enthusiast. I'm from Maringá - Brazil and currently working at Eureka Labs, with react-native and Flutter. You can find me on [![LinkedIn][3.2]][3]
+
+
+<!-- Icons -->
+[2.2]: https://raw.githubusercontent.com/HudsonJunior/HudsonJunior/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[2]: https://www.linkedin.com/in/hudson-p-46583011a/
 <!--
 **HudsonJunior/HudsonJunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
