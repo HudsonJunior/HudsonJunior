@@ -4,7 +4,7 @@ My name is Hudson Junior and I'm a mobile developer/maraton enthusiast. I'm from
 
 
 <!-- Icons -->
-[2.2]: https://raw.githubusercontent.com/HudsonJunior/HudsonJunior/master/linkedin-3-16.png (LinkedIn icon without padding)
+[2.2]: https://raw.githubusercontent.com/HudsonJunior/HudsonJunior/master/linkedin-3-16.png (LinkedIn)
 
 <!-- Links to your social media accounts -->
 
