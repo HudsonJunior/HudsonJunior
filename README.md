@@ -22,6 +22,7 @@ Here are some technologies and tools that I already worked or am currently worki
 ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 
+## 👨🏻‍💻 A little bit about me 
 <!-- Icons -->
 [2.2]: https://raw.githubusercontent.com/HudsonJunior/HudsonJunior/master/linkedin-3-16.png (LinkedIn)
 
