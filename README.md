@@ -1,3 +1,5 @@
+[![Header](https://raw.githubusercontent.com/HudsonJunior/HudsonJunior/master/header.png "Header")]
+
 # Hello, folks! <img src="https://raw.githubusercontent.com/HudsonJunior/HudsonJunior/master/wave.gif" width="30px">
 
 My name is Hudson Junior and I'm a mobile developer/maraton enthusiast. I'm from Maringá - Brazil and currently working at Eureka Labs, with React-Native and Flutter. You can find me on [![LinkedIn][2.2]][3].
