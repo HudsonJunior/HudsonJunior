@@ -23,6 +23,8 @@ Here are some technologies and tools that I already worked or am currently worki
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 
 ## 👨🏻‍💻 A little bit about me 
+
+I'm currently in the third year of Computer Science at State University of Maringá (UEM). So far, the subjects I liked the most was: Algorithms Complexity, Computer Architecture and Organization, Object-Oriented Programming and Graphs.
 <!-- Icons -->
 [2.2]: https://raw.githubusercontent.com/HudsonJunior/HudsonJunior/master/linkedin-3-16.png (LinkedIn)
 
