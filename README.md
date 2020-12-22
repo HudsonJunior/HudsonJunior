@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/HudsonJunior/HudsonJunior/master/header.jpg "Header")]
+![Header](https://raw.githubusercontent.com/HudsonJunior/HudsonJunior/master/header.jpg "Header")
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/HudsonJunior/HudsonJunior/master/wave.gif" width="30px">
 
