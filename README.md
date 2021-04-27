@@ -2,11 +2,11 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/HudsonJunior/HudsonJunior/master/wave.gif" width="30px">
 
-My name is Hudson Junior and I'm a mobile developer/maraton enthusiast. I'm from Maringá - Brazil and currently working at Eureka Labs, with React-Native and Flutter. You can find me on [![LinkedIn][2.2]][3].
+My name is Hudson Junior and I'm a mobile developer/maraton enthusiast. I'm from Maringá - Brazil and currently working at Eureka Labs, with Flutter. You can find me on [![LinkedIn][2.2]][3].
 
 ## 🔧 Technologies & Tools
 
-Here are some technologies and tools that I already worked or am currently working now.
+Here are some technologies and tools that I have worked on or am working on now.
 
 ![](https://img.shields.io/badge/IDE-IntelliJ-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/IDE-Xcode-informational?style=flat&logo=xcode&logoColor=white&color=2bbc8a)
@@ -26,7 +26,7 @@ Here are some technologies and tools that I already worked or am currently worki
 
 ## 👨🏻‍💻 A little bit about me 
 
-I'm currently in the third year of Computer Science at State University of Maringá (UEM). So far, the subjects I liked the most was: Algorithms Complexity, Computer Architecture and Organization, Object-Oriented Programming and Graphs.
+I'm currently in the third year of Computer Science at State University of Maringá (UEM). So far, the subjects I liked the most were: Algorithms Complexity, Computer Architecture and Organization, Object-Oriented Programming and Graphs.
 
 I like to learn new things and improve my knowledge in what I already knows, always searching the best way to get better as needed.
 
