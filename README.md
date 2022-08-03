@@ -2,7 +2,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/HudsonJunior/HudsonJunior/master/wave.gif" width="30px">
 
-My name is Hudson Junior and I'm a mobile developer/maraton enthusiast. I'm from Maringá - Brazil and currently working at Eureka Labs, with Flutter. You can find me on [![LinkedIn][2.2]][3].
+My name is Hudson Junior and I'm a mobile developer/maraton enthusiast. I'm from Maringá - Brazil and currently working at AMcom, with Flutter. You can find me on [![LinkedIn][2.2]][3].
 
 ## 🔧 Technologies & Tools
 
@@ -25,8 +25,6 @@ Here are some technologies and tools that I have worked on or am working on now.
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 
 ## 👨🏻‍💻 A little bit about me 
-
-I'm currently in the third year of Computer Science at State University of Maringá (UEM). So far, the subjects I liked the most were: Algorithms Complexity, Computer Architecture and Organization, Object-Oriented Programming and Graphs.
 
 I like to learn new things and improve my knowledge in what I already knows, always searching the best way to get better as needed.
 
