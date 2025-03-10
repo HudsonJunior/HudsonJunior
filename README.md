@@ -4,7 +4,7 @@ I'm Hudson Junior, a Senior Mobile Engineer from Brazil. I’m passionate about 
 
 ## 👨🏻‍💻 A Little Bit About Me 
 
-I’m a seasoned Mobile Engineer with over 5 years of Flutter experience, having developed numerous small to large-scale applications across startups and large organizations. Throughout my career, I've led feature deliveries, ensured adherence to architectural standards, and helped onboard new developers, especially in high-impact roles. My approach to problem-solving focuses on delivering high-quality code through thoughtful architecture and maintaining performance across large-scale applications.
+I’m a seasoned Mobile Engineer with over 6 years of Flutter experience, having developed numerous small to large-scale applications across startups and large organizations. Throughout my career, I've led feature deliveries, ensured adherence to architectural standards, and helped onboard new developers, especially in high-impact roles. My approach to problem-solving focuses on delivering high-quality code through thoughtful architecture and maintaining performance across large-scale applications.
 
 I’m also an avid chess player—let’s have a game sometime!
 
